@@ -17,8 +17,8 @@ Esta é uma **API RESTful** simples desenvolvida com Laravel para cadastro de ca
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
-   cd nome-do-projeto
+   git clone https://github.com/4strum/api-dogs.git
+   cd api-dogs
    ```
 
 2. **Instale as dependências**
